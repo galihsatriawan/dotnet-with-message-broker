@@ -20,7 +20,7 @@ namespace NewTask
                 using (var channel = connection.CreateModel()){
                     channel.QueueDeclare(
                         queue: destination,
-                        durable: false,
+                        durable: true, // Set true for keep it although rabbitmq restart
                         exclusive: false,
                         autoDelete: false,
                         arguments:null
