@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/sh0brun/2fc1e791-4fb8-4875-8159-7653c6abba36/sh0brun/Documents/Backup_From_22062019/Ekstra/Work/Visi_Solusindo/NET/message-broker/Receive/Receive.csproj": {}
+  },
+  "projects": {
+    "/media/sh0brun/2fc1e791-4fb8-4875-8159-7653c6abba36/sh0brun/Documents/Backup_From_22062019/Ekstra/Work/Visi_Solusindo/NET/message-broker/Receive/Receive.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/sh0brun/2fc1e791-4fb8-4875-8159-7653c6abba36/sh0brun/Documents/Backup_From_22062019/Ekstra/Work/Visi_Solusindo/NET/message-broker/Receive/Receive.csproj",
+        "projectName": "Receive",
+        "projectPath": "/media/sh0brun/2fc1e791-4fb8-4875-8159-7653c6abba36/sh0brun/Documents/Backup_From_22062019/Ekstra/Work/Visi_Solusindo/NET/message-broker/Receive/Receive.csproj",
+        "packagesPath": "/home/sh0brun/.nuget/packages/",
+        "outputPath": "/media/sh0brun/2fc1e791-4fb8-4875-8159-7653c6abba36/sh0brun/Documents/Backup_From_22062019/Ekstra/Work/Visi_Solusindo/NET/message-broker/Receive/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sh0brun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
