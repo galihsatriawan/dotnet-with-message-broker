@@ -1,0 +1,16 @@
+/media/sh0brun/2fc1e791-4fb8-4875-8159-7653c6abba36/sh0brun/Documents/Backup_From_22062019/Ekstra/Work/Visi_Solusindo/NET/message-broker/Worker/bin/Debug/netcoreapp3.1/Worker
+/media/sh0brun/2fc1e791-4fb8-4875-8159-7653c6abba36/sh0brun/Documents/Backup_From_22062019/Ekstra/Work/Visi_Solusindo/NET/message-broker/Worker/bin/Debug/netcoreapp3.1/Worker.deps.json
+/media/sh0brun/2fc1e791-4fb8-4875-8159-7653c6abba36/sh0brun/Documents/Backup_From_22062019/Ekstra/Work/Visi_Solusindo/NET/message-broker/Worker/bin/Debug/netcoreapp3.1/Worker.runtimeconfig.json
+/media/sh0brun/2fc1e791-4fb8-4875-8159-7653c6abba36/sh0brun/Documents/Backup_From_22062019/Ekstra/Work/Visi_Solusindo/NET/message-broker/Worker/bin/Debug/netcoreapp3.1/Worker.runtimeconfig.dev.json
+/media/sh0brun/2fc1e791-4fb8-4875-8159-7653c6abba36/sh0brun/Documents/Backup_From_22062019/Ekstra/Work/Visi_Solusindo/NET/message-broker/Worker/bin/Debug/netcoreapp3.1/Worker.dll
+/media/sh0brun/2fc1e791-4fb8-4875-8159-7653c6abba36/sh0brun/Documents/Backup_From_22062019/Ekstra/Work/Visi_Solusindo/NET/message-broker/Worker/bin/Debug/netcoreapp3.1/Worker.pdb
+/media/sh0brun/2fc1e791-4fb8-4875-8159-7653c6abba36/sh0brun/Documents/Backup_From_22062019/Ekstra/Work/Visi_Solusindo/NET/message-broker/Worker/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/media/sh0brun/2fc1e791-4fb8-4875-8159-7653c6abba36/sh0brun/Documents/Backup_From_22062019/Ekstra/Work/Visi_Solusindo/NET/message-broker/Worker/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/media/sh0brun/2fc1e791-4fb8-4875-8159-7653c6abba36/sh0brun/Documents/Backup_From_22062019/Ekstra/Work/Visi_Solusindo/NET/message-broker/Worker/obj/Debug/netcoreapp3.1/Worker.csprojAssemblyReference.cache
+/media/sh0brun/2fc1e791-4fb8-4875-8159-7653c6abba36/sh0brun/Documents/Backup_From_22062019/Ekstra/Work/Visi_Solusindo/NET/message-broker/Worker/obj/Debug/netcoreapp3.1/Worker.AssemblyInfoInputs.cache
+/media/sh0brun/2fc1e791-4fb8-4875-8159-7653c6abba36/sh0brun/Documents/Backup_From_22062019/Ekstra/Work/Visi_Solusindo/NET/message-broker/Worker/obj/Debug/netcoreapp3.1/Worker.AssemblyInfo.cs
+/media/sh0brun/2fc1e791-4fb8-4875-8159-7653c6abba36/sh0brun/Documents/Backup_From_22062019/Ekstra/Work/Visi_Solusindo/NET/message-broker/Worker/obj/Debug/netcoreapp3.1/Worker.csproj.CoreCompileInputs.cache
+/media/sh0brun/2fc1e791-4fb8-4875-8159-7653c6abba36/sh0brun/Documents/Backup_From_22062019/Ekstra/Work/Visi_Solusindo/NET/message-broker/Worker/obj/Debug/netcoreapp3.1/Worker.csproj.CopyComplete
+/media/sh0brun/2fc1e791-4fb8-4875-8159-7653c6abba36/sh0brun/Documents/Backup_From_22062019/Ekstra/Work/Visi_Solusindo/NET/message-broker/Worker/obj/Debug/netcoreapp3.1/Worker.dll
+/media/sh0brun/2fc1e791-4fb8-4875-8159-7653c6abba36/sh0brun/Documents/Backup_From_22062019/Ekstra/Work/Visi_Solusindo/NET/message-broker/Worker/obj/Debug/netcoreapp3.1/Worker.pdb
+/media/sh0brun/2fc1e791-4fb8-4875-8159-7653c6abba36/sh0brun/Documents/Backup_From_22062019/Ekstra/Work/Visi_Solusindo/NET/message-broker/Worker/obj/Debug/netcoreapp3.1/Worker.genruntimeconfig.cache
