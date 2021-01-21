@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iJNBtUsRm2EP/jTzgJHi8vf5YYUARwji3pF+f5mACTABKY3ceJBAkWYj3AyNoWvn03Fh+AXRML05CaahPmqi3Q==",
+  "success": true,
+  "projectFilePath": "/media/sh0brun/2fc1e791-4fb8-4875-8159-7653c6abba36/sh0brun/Documents/Backup_From_22062019/Ekstra/Work/Visi_Solusindo/NET/message-broker/NewTask/NewTask.csproj",
+  "expectedPackageFiles": [
+    "/home/sh0brun/.nuget/packages/rabbitmq.client/6.2.1/rabbitmq.client.6.2.1.nupkg.sha512",
+    "/home/sh0brun/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/sh0brun/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
